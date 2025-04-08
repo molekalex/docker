@@ -1,0 +1,1000 @@
+  662  ls
+  663  cd 1square/
+  664  ls
+  665  cat docker-compose.yaml
+  666  cd ..
+  667  ls
+  668  cd 1square/
+  669  ls
+  670  cd ..
+  671  ls
+  672  cd 1docker/
+  673  ls
+  674  cd 3square-variable/
+  675  ls
+  676  cat Dockerfile 
+  677  cat cuadrados.java
+  678  docker system prune -a
+  679  docker system prune -f
+  680  docker ps
+  681  docker-compose down
+  682  docker-compose ps
+  683  docker ps
+  684  docker stop --help
+  685  docker stop nginx
+  686  docker stop 2nginx_nginx_1
+  687  docker ps
+  688  docker images
+  689  clear
+  690  ls
+  691  docker build -t=boloyong/3square-variable .
+  692  docker images
+  693  docker push boloyong/3square-variable
+  694  ls
+  695  cd .. .. 
+  696  cd ..
+  697  ls
+  698  cd 2dockerCompose/
+  699  ls
+  700  cd 1square/
+  701  ls
+  702  clear
+  703  ls
+  704  cat docker-compose.yaml 
+  705  nano docker-compose.yaml
+  706  ls
+  707  cat docker-compose.yaml 
+  708  docker images
+  709  docker-compose up
+  710  cd ..
+  711  cd 2nginx/
+  712  ls
+  713  cat docker-compose.yaml 
+  714  cd ..
+  715  ls
+  716  mv 2nginx 2nginx-ports
+  717  ls
+  718  cd ..
+  719  ls
+  720  cd 1docker/
+  721  ls
+  722  cd 2square/
+  723  ls
+  724  cd ..
+  725  cd 1date/
+  726  ls
+  727  cat Dockerfile\ \(1helloWord\) 
+  728  ls
+  729  mv Dockerfile\ \(1helloWord\) Dockerfile
+  730  ls
+  731  cat Dockerfile 
+  732  cat test1.java 
+  733  ls
+  734  cd ..
+  735  ls
+  736  mv 1date/ holaputos
+  737  ls
+  738  mv holaputos 1holaputos
+  739  ls
+  740  docker build -t=boloyong/holaputos .
+  741  ls
+  742  cd 1holaputos/
+  743  ls
+  744  docker build -t=boloyong/holaputos .
+  745  docker images
+  746  docker push boloyong/holaputos
+  747  egrep -c '(vxm|svm)' /proc/cpuinfo
+  748  kvm-ok 
+  749  kvm-ok
+  750  ls
+  751  cd dev
+  752  ls
+  753  pwd
+  754  cd /
+  755  ls
+  756  ls
+  757  ls -al
+  758  cat kvm 
+  759  docker-compose -v
+  760  docker -v
+  761  cat -v
+  762  docker images
+  763  docker pull alpine
+  764  docker images
+  765  docker run -it alpine
+  766  ls
+  767  pwd
+  768  cd /home/bolo/
+  769  ls
+  770  cd Docker/
+  771  ls
+  772  cd workdir/
+  773  ls
+  774  cd 2dockerCompose/4volume-mapping/
+  775  ls
+  776  cat docker-compose.yaml 
+  777  docker-compose up .
+  778  docker-compose up
+  779  docker images
+  780  docker-compose up
+  781  cd /home/bolo/Docker/
+  782  ls
+  783  cd workdir/
+  784  cd 2dockerCompose/4volume-mapping/
+  785  ls
+  786  docker-compose up
+  787  docker image
+  788  docker images
+  789  cat docker-compose.yaml 
+  790  nano docker-compose.yaml 
+  791  docker-compose up
+  792  docker-compose down
+  793  docker-compose up
+  794  docker-compose down
+  795  docker-compose log
+  796  docker-compose -ps
+  797  docker ps
+  798  docker ps-a
+  799  docker ps -a
+  800  docker-compose down
+  801  docker ps
+  802  docker stop --help
+  803  docker stop nginx
+  804  docker stop e17414a85bfd_4volume-mapping_nginx_1
+  805  docker ps
+  806  docker images
+  807  docker-compose up
+  808  docker ps
+  809  docker ps -a
+  810  docker-compose ls
+  811  history 
+  812  docker-compose log
+  813  history | grep log
+  814  docker-compose log
+  815  ping 127.0.0.1
+  816  ping 127.0.0.1:8050
+  817  ping localhost:8050
+  818  ping localhost
+  819  docker logs
+  820  docker logs alpine
+  821  docker-compose ps
+  822  docker-compose logs
+  823  docker ps
+  824  nano tests
+  825  docker images
+  826  ls
+  827  cd vol/
+  828  ls
+  829  cat index.html 
+  830  cat index.html | grep google
+  831  docker-compose logs
+  832  docker ps
+  833  ls
+  834  cd ..
+  835  ls
+  836  cd vol/
+  837  cat index.html 
+  838  cd ..
+  839  ls
+  840  cd 2nginx-ports/
+  841  cat docker-compose.yaml
+  842  cd ..
+  843  cd 1square/
+  844  cat docker-compose.yaml 
+  845  cp docker-compose.yaml /home/bolo/Docker/workdir/2dockerCompose/5override-variable/
+  846  docker-compose up
+  847  docker ps
+  848  docker ps -s
+  849  docker-compose logs
+  850  docker ps
+  851  cd ..
+  852  ls
+  853  cd 5override-variable/
+  854  ls
+  855  cd tests/1NUMBER\=5/
+  856  cat docker-compose.yaml 
+  857  cd /home/bolo/Docker/workdir/2dockerCompose/4
+  858  cd /home/bolo/Docker/workdir/2dockerCompose/4volume-mapping/
+  859  ls
+  860  docker-compose up
+  861  docker images
+  862  docker rm alpine
+  863  docker run -it alpine
+  864  docker ps
+  865  docker system prune -a
+  866  docker system prune -f
+  867  docker images
+  868  docker system prune -f
+  869  docker images
+  870  docker system prune 
+  871  docker images
+  872  docker-compose up
+  873  nano docker-compose.yaml 
+  874  docker-compose up
+  875  docker ps
+  876  docker stop 4volume-map_nginx_1
+  877  docker ps
+  878  ls
+  879  docker ps
+  880  docker ps -a
+  881  docker system prune -a
+  882  docker ps
+  883  docker ps -a
+  884  docker-compose up
+  885  docker ps
+  886  docker ps -a
+  887  docker-compose up
+  888  cd ..
+  889  cd 5override-variable/
+  890  ls
+  891  nano docker-compose.yaml 
+  892  docker-compose up
+  893  NUM=10 docker-compose up
+  894  docker ps
+  895  docker ps -a
+  896  docker ps
+  897  docker ps -a
+  898  docker-compose down
+  899  NUM=5 docker-compose up
+  900  NUM=10 docker-compose up
+  901  docker ps
+  902  docker-compose down 
+  903  NUM=10 docker-compose up
+  904  export NUM=15
+  905  echo $NUM
+  906  docker-compose down 
+  907  docker-compose up
+  908  docker-compose down
+  909  echo $NUM
+  910  export NUM=
+  911  echo $NUM
+  912  docker-compose up
+  913  docker-compose down
+  914  docker-compose down
+  915  docker-compose up
+  916  docker-compose down
+  917  docker-compose down
+  918  cd tests/
+  919  ls
+  920  cd 1NUMBER\=5/
+  921  ls
+  922  cat docker-compose.yaml 
+  923  clear
+  924  cat docker-compose.yaml 
+  925  docker-compose up
+  926  docker-compose down 
+  927  NUMBER=10 docker-compose up
+  928  docker-compose down
+  929  export NUMBER=10
+  930  echo $NUMBER
+  931  docker-compose up
+  932  docker-compose down
+  933  export NUMBER=
+  934  echo $NUMBER
+  935  docker-compose up
+  936  cd /home/bolo/Downloads/
+  937  ls
+  938  history | grep apt
+  939  https://github.com/koki-develop/clive/releases/download/v0.12.7/clive_Linux_x86_64.
+  940  sudo apt-get install ./code_1.97.2-1739406807_amd64.deb
+  941  wget 'https://github.com/koki-develop/clive/releases/download/v0.12.7/
+  942  wget 'https://github.com/koki-develop/clive/releases/download/v0
+  943  ls
+  944  tar -zxvf clive_Linux_x86_64.tar.gz
+  945  ls
+  946  sudo cp ./clive /usr/local/bin/clive
+  947  clive -v
+  948  wget 'https://github.com/tsl0922/ttyd/releases/download/1.7.3/ttyd.x86_64'
+  949  chmod +x ./ttyd.x86_64
+  950  sudo cp ./ttyd.x86_64 /usr/local/bin/ttyd
+  951  ttyd --version
+  952  ls
+  953  cd clive/
+  954  ls
+  955  clive init -c clive.yml
+  956  clive validate -c clive.yml
+  957  clive start -c clive.yml
+  958  ls
+  959  cat clive
+  960  nano clive.yml 
+  961  cat docker-compose.yaml 
+  962  echo $VERSION
+  963  cat .env 
+  964  docker images
+  965  docker ps
+  966  clear
+  967  cd ..
+  968  cd 7multi-env/
+  969  ls
+  970  cat qa.env 
+  971  cd /home/bolo/Docker/workdir/2dockerCompose/5override-variable/
+  972  LS
+  973  ls
+  974  cat docker-compose.yaml 
+  975  docker-compose up
+  976  docker ps
+  977  docker-compose down
+  978  NUMBERC=10 docker-compose up
+  979  docker-compose down
+  980  echo $DOCKERC
+  981  echo $NUMBERC
+  982  export NUMBERC=2
+  983  echo $NUMBERC
+  984  docker-compose down
+  985  cd ..
+  986  cd 6env-file/
+  987  nano .env
+  988  LS
+  989  l
+  990  ls
+  991  ls -al
+  992  nano docker-compose.yaml 
+  993  cat .env 
+  994  nano docker-compose.yaml 
+  995  docker-compose down
+  996  docker-compose up
+  997  ls -a
+  998  nano docker-compose.yaml 
+  999  docker-compose down
+ 1000  docker-compose up
+ 1001  docker-compose down
+ 1002  nano .env 
+ 1003  docker-compose up
+ 1004  docker-compose down
+ 1005  nano .env 
+ 1006  docker-compose up
+ 1007  docker-compose down
+ 1008  docker-compose up
+ 1009  docker-compose down
+ 1010  nano .env 
+ 1011  docker-compose up
+ 1012  docker-compose down
+ 1013  CD ..
+ 1014  cd ..
+ 1015  cd 7multi-env/
+ 1016  ls
+ 1017  nano dev.env
+ 1018  cat dev.env 
+ 1019  nano qa.env
+ 1020  cat qa.env 
+ 1021  nano qa.env 
+ 1022  ls
+ 1023  cat qa.env 
+ 1024  cat dev.env 
+ 1025  docker images
+ 1026  docker-compose --env-file qa.env up
+ 1027  docker ps
+ 1028  docker-compose down
+ 1029  docker-compose down
+ 1030  docker-compose --env-file dev.env up
+ 1031  docker-compose down
+ 1032  docker ps
+ 1033  pwd
+ 1034  cd /home/bolo/Docker/workdir/2dockerCompose/7multi-env/
+ 1035  ls
+ 1036  docker-compose down
+ 1037  docker system prune -a
+ 1038  docker-compose down
+ 1039  docker-compose --env-file dev.env up
+ 1040  docker ps
+ 1041  clear
+ 1042  ls
+ 1043  cd /home/bolo/Docker/workdir/2dockerCompose/7multi-env/
+ 1044  ls
+ 1045  docker ps
+ 1046  docker-compose logs 
+ 1047  docker-compose --env-file qa.env up
+ 1048  docker ps
+ 1049  docker-compose down 
+ 1050  docker-compose --env-file dev.env up
+ 1051  docker ps
+ 1052  docker-compose --env-file qa.env up
+ 1053  docker-compose --env-file dev.env up
+ 1054  docker-compose --env-file qa.env up
+ 1055  docker-compose down 
+ 1056  docker ps
+ 1057  docker-compose --env-fi
+ 1058  docker-compose down 
+ 1059  docker-compose -down
+ 1060  docker-compose down
+ 1061  docker-compose --env-file qa.env up
+ 1062  docker-compose --env-file dev.env up
+ 1063  docker-compose down
+ 1064  cd ..
+ 1065  cd 6env-file/
+ 1066  ls
+ 1067  cat docker-compose.yaml 
+ 1068  ls -al
+ 1069  cat .env 
+ 1070  nano .env
+ 1071  docker-compose up
+ 1072  docker-compose down 
+ 1073  cd ..
+ 1074  cd 7multi-env/
+ 1075  ls
+ 1076  cat docker-compose.yaml 
+ 1077  cd ..
+ 1078  cd 8multi-compose/
+ 1079  ls
+ 1080  docker-compose -f nginx.yaml -d
+ 1081  docker-compose -f nginx.yaml -d up
+ 1082  docker-compose 
+ 1083  docker-compose -f nginx.yaml down
+ 1084  docker-compose ps
+ 1085  docker ps
+ 1086  docker network --help
+ 1087  docker network inspect 
+ 1088  docker network inspect
+ 1089  docker network inspect --help 
+ 1090  docker network inspect -f
+ 1091  docker network inspect --help
+ 1092  docker network inspect -v
+ 1093  docker network ls
+ 1094  docker-compose -f alpine.yaml up
+ 1095  docker-compose -f alpine.yaml down
+ 1096  dpkg --list | grep openjdk
+ 1097  sudo apt-get update
+ 1098  sudo apt-get install bzip2
+ 1099  sudo apt-get install build-essential gcc make perl dkms
+ 1100  snap
+ 1101  snap find "intellij"
+ 1102  sudo snap install pycharm-community --classic
+ 1103  sudo snap install intellij-idea-community --classic
+ 1104  dpkg --list | grep openjdk
+ 1105  dpkg --list | grep jdk
+ 1106  dpkg --list | grep jre
+ 1107  dpkg --list | grep openjre
+ 1108  history | grep jre
+ 1109  mvn clean compile
+ 1110  mvn
+ 1111  sudo apt install maven
+ 1112  mvn clean compile
+ 1113  mvn --version
+ 1114  mvn --help
+ 1115  mvn -v
+ 1116  echo $testng.version
+ 1117  echo $testng
+ 1118  echo $testng.version
+ 1119  echo $USER
+ 1120  echo $TESTNG.VERSION}
+ 1121  echo $TESTNG.VERSION
+ 1122  dpkg --list | grep testng
+ 1123  sudo snap remove intellij-idea-ultimate
+ 1124  dpkg --list | grep intellij
+ 1125  dpkg --list | grep intel
+ 1126  history | grep intell
+ 1127  sudo snap remove intellij-idea-community
+ 1128  snap find "intellij"
+ 1129  mvn clean compile
+ 1130  mvn clean compile
+ 1131  clear
+ 1132  mvn clean compile
+ 1133  history 
+ 1134  clear
+ 1135  mvn clean compile
+ 1136  mvn clean compile
+ 1137  clear
+ 1138  mvn clean compile
+ 1139  mvn clean compile
+ 1140  clear
+ 1141  mvn clean compile
+ 1142  clear
+ 1143  mvn clean compile
+ 1144  clear
+ 1145  mvn clean compile
+ 1146  history 
+ 1147  snap find "intellij"
+ 1148  sudo snap install intellij-idea-ultimate --classic --edge
+ 1149  dpkg --list | grep jetbrains
+ 1150  dpkg --list | grep intelli
+ 1151  clear mvn compile
+ 1152  history
+ 1153  mvn clean compile
+ 1154  chromium
+ 1155  docker --version
+ 1156  dpkg --list | grep
+ 1157  dpkg --list | grep docker
+ 1158  mvn dependency:tree
+ 1159  clear mvn compile
+ 1160  mvn clean compile
+ 1161  javac --version
+ 1162  java --version
+ 1163  history | grep openjdk
+ 1164  history | apt-get 
+ 1165  clear
+ 1166  history | grep snap
+ 1167  history | grep apt
+ 1168  history | grep openjdk
+ 1169  mvn clean compile
+ 1170  mvn clean
+ 1171  mvn clean compile
+ 1172  mvn clean
+ 1173  mvn clean compile
+ 1174  mvn clean
+ 1175  mvn clean compile
+ 1176  clear
+ 1177  mvn clean
+ 1178  mvn clean compile
+ 1179  ls /usr/lib/jvm/
+ 1180  java
+ 1181  ls /usr/lib/jvm/
+ 1182  history 
+ 1183  linux --version
+ 1184  uname -a
+ 1185  cat /etc/os-release 
+ 1186  git
+ 1187  git --version
+ 1188  git config --global -e
+ 1189  git config --global user.name "molekalex"
+ 1190  git config --global user.email "molekalex@gmail.com"
+ 1191  git config --global -e
+ 1192  git config --global core.editor "code --wait"
+ 1193  git config --global -e
+ 1194  git config --global core.autocrlf true
+ 1195  git config --global -e
+ 1196  git config --global core.autocrlf input
+ 1197  git config --global -e
+ 1198  cd /home/bolo/Docker/workdir/2dockerCompose/cd ..
+ 1199  cd /home/bolo/Docker/workdir/3atoma-frame
+ 1200  ls
+ 1201  cd selenium-docker/
+ 1202  ls
+ 1203  git init 
+ 1204  git config --global -e
+ 1205  ls
+ 1206  ls -al
+ 1207  clear
+ 1208  ls -al
+ 1209  clear
+ 1210  cd .git
+ 1211  cd ..
+ 1212  git init
+ 1213  ls
+ 1214  ls -al
+ 1215  cd .git
+ 1216  ls -al
+ 1217  clear
+ 1218  cd ..
+ 1219  git config --global -e
+ 1220  git add .
+ 1221  git status
+ 1222  git commit -m "push from ubuntu 24"
+ 1223  git status
+ 1224  branch
+ 1225  git branch 
+ 1226  git branch main
+ 1227  git status
+ 1228  git branch
+ 1229  git checkout main
+ 1230  git status 
+ 1231  git branch 
+ 1232  git checkout master 
+ 1233  ls
+ 1234  git status 
+ 1235  git status --oneline
+ 1236  git branch 
+ 1237  ls
+ 1238  rm .
+ 1239  rm src
+ 1240  rm pom.xml
+ 1241  git status 
+ 1242  git add pom.xml 
+ 1243  git status 
+ 1244  ls
+ 1245  rm -r .
+ 1246  ls
+ 1247  rm -r src/
+ 1248  rm -r target/
+ 1249  git status 
+ 1250  git add .
+ 1251  ls
+ 1252  git status
+ 1253  git commit -m "eliminando archivos en la rama:Master"
+ 1254  git status
+ 1255  git checkout main
+ 1256  git push -u origin main
+ 1257  git --delete master
+ 1258  git branch --delete Master
+ 1259  git branch --delete master
+ 1260  git branch -D master 
+ 1261  git branch
+ 1262  git add .
+ 1263  git status 
+ 1264  ls
+ 1265  git init
+ 1266  ls
+ 1267  cd .git/
+ 1268  ls
+ 1269  cd ..
+ 1270  ls
+ 1271  git add .
+ 1272  git status
+ 1273  git add pom.xml
+ 1274  git status
+ 1275  git status --global -e
+ 1276  git status -glo
+ 1277  git config --global -e
+ 1278  ls
+ 1279  ls -al
+ 1280  git add .
+ 1281  gitstatus
+ 1282  git status
+ 1283  cat .gitignore
+ 1284  clear
+ 1285  cat .gitignore
+ 1286  rm -rf .git
+ 1287  ls
+ 1288  ls -al
+ 1289  git init
+ 1290  ls -al
+ 1291  cd .git/
+ 1292  ls
+ 1293  cd ..
+ 1294  git status 
+ 1295  git add .
+ 1296  git status 
+ 1297  git branch 
+ 1298  git commit -m "push to github"
+ 1299  git 
+ 1300  git status
+ 1301  ls
+ 1302  git status
+ 1303  git remote add origin git@github.com:molekalex/selenium-docker.git
+ 1304  git push -u origin main
+ 1305  git status
+ 1306  ls
+ 1307  git remote -v
+ 1308  git remote rm origin
+ 1309  git remote -v
+ 1310  git remote add origin git@github.com:molekalex/selenium-docker.git
+ 1311  git push -u origin main
+ 1312  git remote -v
+ 1313  git remote rm origin
+ 1314  git remote add originale git@github.com:molekalex/selenium-docker.git
+ 1315  git push -u originale main
+ 1316  ssh -vT git@github.com
+ 1317  clear
+ 1318  rm -rf .git
+ 1319  ls
+ 1320  git status
+ 1321  ls
+ 1322  git init
+ 1323  ls
+ 1324  ls -a
+ 1325  cd .git/
+ 1326  ls
+ 1327  cd ..
+ 1328  ls
+ 1329  git add .
+ 1330  git status
+ 1331  git commit -m "desde ubuntu 10"
+ 1332  git status
+ 1333  git branch -M main
+ 1334  git status 
+ 1335  git remote add origin git@github.com:molekalex/selenium-docker.git
+ 1336  git push -u origin main
+ 1337  ls -al ~/.ssh
+ 1338  cd ~/.ssh
+ 1339  ls
+ 1340  cat authorized_keys 
+ 1341  cat known_hosts 
+ 1342  eval "(ssh-agent -s)"
+ 1343  eval "$(ssh-agent -s)"
+ 1344  git
+ 1345  ssh-keygen -t rsa -b 4096 -C "molekalex@gmail.com"
+ 1346  cd /home/bolo/Docker/workdir/3atoma-frame
+ 1347  ls
+ 1348  cd selenium-docker/
+ 1349  ls
+ 1350  git stat
+ 1351  git status 
+ 1352  ls
+ 1353  ssh -T git@github.com
+ 1354  git log
+ 1355  git ls-tree
+ 1356  git ls-main
+ 1357  git show
+ 1358  git remote -v
+ 1359  git push -u origin main
+ 1360  history | grep git
+ 1361  git config --global -e
+ 1362  clear
+ 1363  history | grep ssh
+ 1364  ssh -vT git@github.com
+ 1365  history | grep npm
+ 1366  history | grep intellij
+ 1367  history | grep docker
+ 1368  pwd
+ 1369  cd Docker/workdir/
+ 1370  ls
+ 1371  cd 3atoma-frame
+ 1372  ls
+ 1373  cd ..
+ 1374  cd 2dockerCompose/
+ 1375  ls
+ 1376  cd 8multi-compose/
+ 1377  ls
+ 1378  cat alpine.yaml 
+ 1379  cat nginx.yaml 
+ 1380  cd.. 
+ 1381  cd ..
+ 1382  ls
+ 1383  cd 4selenium-grid/1simple-grid/
+ 1384  ls
+ 1385  docker images
+ 1386  docker-compose up
+ 1387  pwd
+ 1388  cd Docker/workdir/4selenium-grid/1simple-grid/
+ 1389  la
+ 1390  ls
+ 1391  cat docker-compose.yaml
+ 1392  clear
+ 1393  docker-compose up
+ 1394  history | grep docker
+ 1395  docker run selenium/node-firefox:4.27
+ 1396  docker ps
+ 1397  docker ps -a
+ 1398  history | grep port
+ 1399  clear
+ 1400  history | grep docker
+ 1401  history | grep "docker run"
+ 1402  cd Docker/workdir/4selenium-grid/1simple-grid/
+ 1403  ls
+ 1404  docker-compose up
+ 1405  run selenuim/node-firefox:4.27
+ 1406  docker run selenuim/node-firefox:4.27
+ 1407  docker run selenium/node-firefox:4.27
+ 1408  docker run selenium/node-chromium:4.27
+ 1409  docker run selenium/hub:4.27
+ 1410  cd Docker/workdir/4selenium-grid/1simple-grid/
+ 1411  ls
+ 1412  cat docker-compose.yaml
+ 1413  clear
+ 1414  ls -añ
+ 1415  ls -al
+ 1416  cd Docker/workdir/4selenium-grid/1simple-grid/
+ 1417  history | grep "docker"
+ 1418  history | grep "prune"
+ 1419  docker system prune
+ 1420  docker-compose up
+ 1421  docker-compose down
+ 1422  ls
+ 1423  cat docker-compose.yaml 
+ 1424  docker-compose up
+ 1425  ifconfig
+ 1426  sudo apt install net-tools
+ 1427  ifconfig
+ 1428  clear
+ 1429  echo {$JAVA}
+ 1430  echo $JAVA
+ 1431  java -version
+ 1432  sudo apt remove --auto-remove openjdk-21-*
+ 1433  clear
+ 1434  ls /usr/lib/jvm/
+ 1435  sudo apt remove --auto-remove default-java
+ 1436  sudo apt remove --auto-remove java
+ 1437  java -fullversion
+ 1438  java -version
+ 1439  sudo apt-get autoremove default-jdk
+ 1440  intellij -version
+ 1441  clear
+ 1442  history | grep intel
+ 1443  sudo snap 
+ 1444  sudo apt remove --auto-remove openjdk-1-*
+ 1445  l
+ 1446  java -version
+ 1447  javac -version
+ 1448  apt list --installed | grep java
+ 1449  apt list --installed | grep java-default
+ 1450  apt list --installed | grep "java-default"
+ 1451  dpkg -l | grep "java-default"
+ 1452  dpkg -l | grep "openjdk"
+ 1453  dpkg -l | grep "jdk"
+ 1454  java ver
+ 1455  clear
+ 1456  history | grep intell
+ 1457  sudo snap install intellij-idea-ultimate --classic --edge
+ 1458  sudo apt remove --auto-remove openjdk-21-*
+ 1459  java -version
+ 1460  javac
+ 1461  clear
+ 1462  [200~ls /usr/lib/jvm/~
+ 1463  ls /usr/lib/jvm/~
+ 1464  ls /usr/lib/jvm/
+ 1465  alternatives --config java
+ 1466  clear
+ 1467  r
+ 1468  clear
+ 1469  history | grep intel
+ 1470  dpkg -l | intellij
+ 1471  dpkg -l | grep intellij
+ 1472  dpkg -l | grep idea
+ 1473  dpkg -l
+ 1474  dpkg -l | grep intellij
+ 1475  dpkg -l | grep idea
+ 1476  dpkg -l | grep IDEA
+ 1477  clear
+ 1478  dpkg -l | grep IDEA
+ 1479  history | grep intell
+ 1480  sudo snap remove intellij-idea-community
+ 1481  sudo snap remove intellij-idea-ultimate
+ 1482  java -version
+ 1483  git status
+ 1484  ls
+ 1485  cd ..
+ 1486  cd selenium-docker/
+ 1487  git status
+ 1488  git remote -v
+ 1489  git pull origin main --force
+ 1490  clear
+ 1491  git status
+ 1492  java -version}
+ 1493  java -version
+ 1494  javac
+ 1495  clear
+ 1496  java -version
+ 1497  sudo apt install openjdk-21-jre-headless 
+ 1498  clear
+ 1499  javac -version
+ 1500  sudo apt install openjdk-21-jdk-headless
+ 1501  java -version
+ 1502  javac -version
+ 1503  sudo snap install intellij-idea-ultimate --classic
+ 1504  git -version
+ 1505  git status
+ 1506  pwd
+ 1507  cd Downloads/
+ 1508  ls
+ 1509  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 1510  sudo dpkg -i google-chrome-stable_current_amd64.deb
+ 1511  cd ..
+ 1512  pwd
+ 1513  ls
+ 1514  cd Docker/
+ 1515  ls
+ 1516  cd workdir/
+ 1517  ls
+ 1518  cd 4selenium-grid/
+ 1519  ls
+ 1520  cd 1simple-grid/
+ 1521  ls
+ 1522  docker-compose up
+ 1523  pwd
+ 1524  cd Docker/workdir/4selenium-grid/selenium-docker/
+ 1525  docker-compose up
+ 1526  cd ..
+ 1527  cd 1
+ 1528  cd 1simple-grid/
+ 1529  ls
+ 1530  docker-compose up
+ 1531  history | grep docker
+ 1532  git status
+ 1533  git remote -v
+ 1534  git pull origin
+ 1535  git stash -a
+ 1536  git pull origin
+ 1537  git pull origin main
+ 1538  git status
+ 1539  ls
+ 1540  ls -a
+ 1541  rm .
+ 1542  rm .git
+ 1543  rm .git --force
+ 1544  git rm -r .git
+ 1545  git status
+ 1546  ls -a
+ 1547  cd ..
+ 1548  history | grep jdk
+ 1549  sudo apt install openjdk-20
+ 1550  history | grep jdk
+ 1551  java -version
+ 1552  java --version
+ 1553  dpkg -l | java
+ 1554  dpkg -l | grep java
+ 1555  firefox -version
+ 1556  java -version
+ 1557  history | grep firefox
+ 1558  cd Downloads/
+ 1559  ls
+ 1560  sudo dpkg -i jdk-20.0.1_linux-x64_bin
+ 1561  sudo dpkg -i jdk-20.0.1_linux-x64_bin.deb
+ 1562  java -version
+ 1563  sudo apt update
+ 1564  apt list --upgradable
+ 1565  apt list --upgradable -> UpgradableSoftware.text
+ 1566  ls
+ 1567  cat UpgradableSoftware.text 
+ 1568  clear
+ 1569  sudo apt update
+ 1570  sudo apt-get install -f
+ 1571  sudo dpkg -i jdk-20.0.1_linux-x64_bin.deb
+ 1572  java -version
+ 1573  cd /usr/lib/jvm/
+ 1574  ls
+ 1575  cd jdk-20/bin/
+ 1576  ls
+ 1577  cd
+ 1578  ls -la
+ 1579  pwd
+ 1580  ls
+ 1581  ls -la
+ 1582  nano .bashrc
+ 1583  java -version
+ 1584  java --version
+ 1585  nano .bashrc
+ 1586  ls
+ 1587  java -version
+ 1588  javac
+ 1589  jshell
+ 1590  exec bash
+ 1591  jshell
+ 1592  java -version
+ 1593  nano bashrc
+ 1594  ls
+ 1595  ls la
+ 1596  ls -la
+ 1597  nano .bashrc
+ 1598  java -version
+ 1599  javac -version
+ 1600  java --version
+ 1601  javac -version
+ 1602  history
+ 1603  history | grep auto
+ 1604  cd Downloads/
+ 1605  ls
+ 1606  apt get update
+ 1607  sudo apt get update
+ 1608  sudo apt update
+ 1609  ls
+ 1610  sudo dpkg -i jdk-21.0.5_linux-x64_bin.deb
+ 1611  java --version
+ 1612  cd
+ 1613  nano .bashrc
+ 1614  java -version
+ 1615  jshell
+ 1616  exec bash
+ 1617  jshell
+ 1618  javac -version
+ 1619  git status
+ 1620  rm .init/
+ 1621  ls -al
+ 1622  rm .git/
+ 1623  rm .git/ --force
+ 1624  rm -r .git/
+ 1625  ls -a
+ 1626  git status
+ 1627  ls -al
+ 1628  cd ..
+ 1629  git status
+ 1630  git add .
+ 1631  git status
+ 1632  ls -al
+ 1633  cd ..
+ 1634  ls -al
+ 1635  rm -r .git/
+ 1636  rm -rf .git/
+ 1637  ls al
+ 1638  ls -al
+ 1639  git status
+ 1640  git init
+ 1641  git add
+ 1642  git add .
+ 1643  rm -rf .git/
+ 1644  ls
+ 1645  ls -al
+ 1646  git status
+ 1647  git init
+ 1648  pwd
+ 1649  git add .
+ 1650  git rm --cached workdir/4selenium-grid/selenium-docker
+ 1651  cd workdir/
+ 1652  ls
+ 1653  ls -al
+ 1654  cd ..
+ 1655  ls -al
+ 1656  rm -rf .git/
+ 1657  git staus
+ 1658  git status
+ 1659  git init
+ 1660  git add .
+ 1661  history >> history.txt

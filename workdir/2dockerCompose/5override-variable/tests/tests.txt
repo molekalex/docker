@@ -1,0 +1,20 @@
+folder1
+c1 docker-compose up -> success:5 cicles, 25...
+c2 docker-compose down
+NUMBER=10 docker-compose up -> fail, case ran normally, just ignore the NUMBER=10, 5 cicles, 25...
+c3 docker-compose down
+ EXPORT NUMBER=10
+   docker-compose up -> case run normally, ignore the variable. 
+c4 docker-compose down
+EXPORT NUMBER=
+docker-compose up -> success:5 cicles, 25...
+folder 2
+c5 docker-compose down
+NUMBER=3 docker-compose up -> success: 3 cicles
+c6 docker-compose down
+export NUMBER=4
+docker-compose up -> success, 4 cicles, 16...
+c7 docker-compose down
+docker-compose up -> fail
+
+

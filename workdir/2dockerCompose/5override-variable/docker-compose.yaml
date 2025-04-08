@@ -1,0 +1,8 @@
+version: "3"
+services:
+ square:
+  image: boloyong/3square-variable
+  environment:
+  #- NUMBER=${NUMBERC}
+  #asign a default value: 7 in case there is not value defined:
+  - NUMBER=${NUMBERC:-7}

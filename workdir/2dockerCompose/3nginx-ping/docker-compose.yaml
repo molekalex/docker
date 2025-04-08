@@ -1,0 +1,11 @@
+version: "3"
+services:
+ nginx:
+  image: nginx
+  ports:
+  - 8050:80
+ alpine:
+  image: alpine
+  entrypoint: "ping nginx"
+  depends_on:
+  - nginx

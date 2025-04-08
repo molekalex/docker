@@ -1,0 +1,6 @@
+version: "3"
+services:
+ square:
+  image: boloyong/3square-variable
+  environment:
+  - NUMBER
